@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com"> Integrated Wind Turbine System with Dynamic Power Generation </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️Powering Innovation with MATLAB: Transforming Ideas into Solutions ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
@@ -11,10 +11,12 @@ mention the description here , mention what does your prototype does  , make sur
 `Team number` : VH146
 
 | Name    | Email           |
+
 |---------|-----------------|
-| person1 | 9921005202@klu.ac.in |
-| person2 | 9921005223@klu.ac.in |
-| person3 | 9921005173@klu.ac.in |
+| Pinni Daivagna Rishi| 9921005252@klu.ac.in |
+| Bandi venkata Rama Krishna | 9921005202@klu.ac.in |
+| potla sivaj | 9921005223@klu.ac.in |
+| Panamala Chandu | 9921005173@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
@@ -26,7 +28,7 @@ mention the description here , mention what does your prototype does  , make sur
 </div>
 
 ## Problem statement 
-electricity generation using renewable resources, Due to inefficiencies in the current power distribution system, there is a risk of energy waste and inconsistent service for electric vehicle (EV) charging stations, street lights, and traffic signals. Unreliable power generation from the hybrid wind turbine combined with inadequate distribution infrastructure makes it difficult to effectively use renewable energy sources., The following individuals are dealing with the issue of inefficient power distribution for traffic signals, street lights, and EV charging
+Electricity generation using renewable resources, Due to inefficiencies in the current power distribution system, there is a risk of energy waste and inconsistent service for electric vehicle (EV) charging stations, street lights, and traffic signals. Unreliable power generation from the hybrid wind turbine combined with inadequate distribution infrastructure makes it difficult to effectively use renewable energy sources., The following individuals are dealing with the issue of inefficient power distribution for traffic signals, street lights, and EV charging.
 ## About the project
 The goal of the project is to enhance the efficiency of energy output by optimizing the design and operation of hybrid wind turbines. To improve overall performance, this entails optimizing positioning tactics, enhancing blade design, and putting in place intelligent control systems., The project solves the inefficiencies in power generation and distribution for street lighting, traffic signals, and electric vehicle charging by streamlining the design of the hybrid wind turbine and putting in place a smart power distribution system. Energy management software and Internet of Things (IoT) integration improves system stability, lowers energy waste, and encourages the use of renewable energy sources.
 ## Technical implemntaion 
@@ -38,7 +40,7 @@ mention the approach and how you have solved the problem with the technology , u
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`MATLAB `,`Mathematical calculations`,`Data input/output operations`
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
