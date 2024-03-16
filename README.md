@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com"> Integrated Wind Turbine System with Dynamic Power Generation </a><br>
     </b>
     ⭐️This is a sample tag line  ⭐️ <br>
 </h1>
