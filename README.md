@@ -5,7 +5,7 @@
     ⭐️Powering Innovation with MATLAB: Transforming Ideas into Solutions ⭐️ <br>
 </h1>
 
-# [`Website link`](https://7f8ac6f0-1594-4b21-bcf7-6334f88d3913-00-2aq00vlzv3606.sisko.replit.dev/)  [`Demo video link `]https://drive.google.com/file/d/1G0JAVQORZmjr6ZYlYAKX_lkSV7oLaGbh/view?usp=drivesdkhttp://www.google.com) [`Other links `](http://www.google.com) 
+# [`Website link`](https://7f8ac6f0-1594-4b21-bcf7-6334f88d3913-00-2aq00vlzv3606.sisko.replit.dev/)  [`Demo video link `]https://drive.google.com/file/d/1G0JAVQORZmjr6ZYlYAKX_lkSV7oLaGbh/view?usp=drivesdk)  
 mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 `Team number` : VH146
@@ -19,12 +19,13 @@ mention the description here , mention what does your prototype does  , make sur
 | Panamala Chandu | 9921005173@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://photos.app.goo.gl/5oDtXPsccxyDnK346;">
-    <img src="https://photos.app.goo.gl/c7jA6vCNqjFTu5Eo6;">
-    <img src="https://photos.app.goo.gl/LaQqpzM7v9jupKXV8;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://drive.google.com/file/d/1KJVl3E1cMB7DOrg9XF_FOgFTQ0W96NMc/view?usp=drivesdk">
+    <img src="https://drive.google.com/file/d/1KEeDoILBS4RqtiL2vTZEKvPh6pmgoXw6/view?usp=drivesdk">
+    <img src="https://drive.google.com/file/d/1KEMK-NLG8ZfEIbO9px_4Z6nZ5asXDMZ7/view?usp=drivesdk">
+    <img src="https://drive.google.com/file/d/1KDwR6nJzfscT-4JJJ6LPkj0JZhfHmdxh/view?usp=drivesdk">
+    <img src="https://drive.google.com/file/d/1K8xMJEUN0BsnIvYdIqj55ycNrKGMEk9a/view?usp=drivesdk">
+    <img src="https://drive.google.com/file/d/1K8xMJEUN0BsnIvYdIqj55ycNrKGMEk9a/view?usp=drivesdk">
+    <img src="<img src="https://drive.google.com/file/d/1K8xMJEUN0BsnIvYdIqj55ycNrKGMEk9a/view?usp=drivesdk">
 </div>
 
 ## Problem statement 
