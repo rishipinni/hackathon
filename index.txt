@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Road Way Wind Turbine Simulation</title>
+</head>
+<body>
+    <h1>Road Way Wind Turbine Simulation</h1>
+    <form action="/result" method="post">
+        <label for="num_vehicles">Enter the number of vehicles:</label>
+        <input type="number" id="num_vehicles" name="num_vehicles" required>
+        <button type="submit">Submit</button>
+
+        <!-- Container for vehicle speed inputs -->
+        <div id="vehicle-speed-inputs"></div>
+
+        <!-- Script to generate input fields for vehicle speeds -->
+        <script>
+            // Function to generate input fields for vehicle speeds
+            function generateVehicleSpeedInputs(numVehicles) {
+                var container = document.getElementById('vehicle-speed-inputs');
+                container.innerHTML = ''; // Clear previous inputs
+
+                for (var i = 1; i <= numVehicles; i++) {
+                    var label = document.createElement('label');
+                    label.textContent = 'Enter velocity of Vehicle  in meter/second   ' + i + ': ';
+                    container.appendChild(label);
+
+                    var input = document.createElement('input');
+                    input.type = 'number';
+                    input.name = 'vehicle_speed_' + i;
+                    input.required = true;
+                    container.appendChild(input);
+
+                    container.appendChild(document.createElement('br'));
+                  
+                }
+            }
+
+            // Event listener for changes in the number of vehicles input
+            document.getElementById('num_vehicles').addEventListener('input', function() {
+                var numVehicles = parseInt(this.value);
+                generateVehicleSpeedInputs(numVehicles);
+            });
+        </script>
+    </form>
+</body>
+</html>
