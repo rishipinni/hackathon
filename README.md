@@ -40,15 +40,25 @@ mention the approach and how you have solved the problem with the technology , u
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`MATLAB `,`Mathematical calculations`,`Data input/output operations`
+`PYTHON`,`Mathematical calculations`,`Data input/output operations`,'HTML','REPLIT WEBSITE','MATPLOTLIB FOR VISUALIZATION'
 
 ## How to run locally 
-explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-```
-npm install
-npm start
-```
+To run the Flask project from another laptop, follow these steps:
+
+-->Access the project: Open the project link you provided (https://replit.com/@9921005252/Python).
+
+-->Access the code: Review the project files to understand its structure and dependencies.
+
+-->Fork the project: If you want to make changes to the project, click the "Fork" button on the top right corner of the Replit interface. This creates a copy of the project in your Replit account that you can modify.
+
+-->Run the Flask application:
+Open the main.py file, which likely contains the code to start the Flask server.
+Find the "Run" button and click on it to start the Flask server. This will host the website locally on the laptop.
+-->Access the website:
+Once the Flask server is running, you'll see output in the console indicating the URL where the server is hosted, such as http://127.0.0.1:5000/.
+Open a web browser on the laptop and enter the URL to access the website.
+-->Interact with the website:
+You can now interact with the website as intended. Follow any prompts or instructions provided by the website interface.
 
 # What's next ?
 tell the future plan that you have for the project , tell the updates that you would wish to bring
