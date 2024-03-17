@@ -50,8 +50,6 @@ Process data and handle form submission using Flask routes.
 -On the result page, plots are created and shown.
 
 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
-
 ## Techstacks used 
 `PYTHON`,`Mathematical calculations`,`Data input/output operations`,'HTML','REPLIT WEBSITE','MATPLOTLIB FOR VISUALIZATION'
 
