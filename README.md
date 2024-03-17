@@ -32,11 +32,26 @@ Electricity generation using renewable resources, Due to inefficiencies in the c
 ## About the project
 The goal of the project is to enhance the efficiency of energy output by optimizing the design and operation of hybrid wind turbines. To improve overall performance, this entails optimizing positioning tactics, enhancing blade design, and putting in place intelligent control systems., The project solves the inefficiencies in power generation and distribution for street lighting, traffic signals, and electric vehicle charging by streamlining the design of the hybrid wind turbine and putting in place a smart power distribution system. Energy management software and Internet of Things (IoT) integration improves system stability, lowers energy waste, and encourages the use of renewable energy sources.
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
+-->Managing User Input:
+-To construct a web application, use Flask.
+-Users can enter parameters using an HTML form.
+
+Process data and handle form submission using Flask routes.
+
+-->Reverse Processing:
+-To model wind turbine behavior, use the given RungeKutta function.
+-Compute the angular velocity and current through the inductor, then plot the results.
+-To be displayed on the frontend, save plots as pictures.
+
+-->Display at Front End:
+-Result page rendered with generated charts and simulation information.
+-To directly integrate graphs into HTML, use base64 encoding.
+-->Whole Flow:
+-The web form is used by the user to enter car parameters.
+-Runge-Kutta simulation execution and form submission are handled by Flask.
+-On the result page, plots are created and shown.
+
+
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
